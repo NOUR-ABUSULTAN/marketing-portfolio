@@ -59,7 +59,7 @@ Certified by Digiwork/GIZ · B.Sc. Mobile Computing (in progress) · Internation
 ## Contact · تواصل
 
 📧 noorabusultan00@gmail.com
-🌐 [nour-abusultan.github.io/Nour.Abusultan](https://nour-abusultan.github.io/Nour.Abusultan/)
+🌐 [nour-abusultan.github.io/marketing-portfolio](https://nour-abusultan.github.io/marketing-portfolio/)
 💼 [BrightGaza Profile](https://www.brightgaza.com/talents/762)
 📍 Gaza, Palestine · Remote · غزة، فلسطين · عن بُعد
 
